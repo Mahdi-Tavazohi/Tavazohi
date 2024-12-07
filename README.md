@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate mobile developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tavazohi&label=Profile%20views&color=0e75b6&style=flat" alt="tavazohi" /> </p>
-
 - 🌱 I’m currently learning **dart and flutter**
 
 - 📫 How to reach me **Mahdi.Sh4dow@gmail.com**
